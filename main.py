@@ -1,14 +1,7 @@
-# main.py
-
-# This is the main entry point for the keystroke capture application.
-# It initializes the keylogger and starts listening for events.
 
 import sys
 import os
 
-# Add the parent directory to the Python path to allow importing modules
-# from the current project structure. This is important when running
-# the script from a different directory or when the modules are not
 # directly in the Python path.
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 

