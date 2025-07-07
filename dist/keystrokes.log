@@ -139,3 +139,53 @@
 2025-07-07 11:17:54,096: Key released: 'd'
 2025-07-07 11:17:54,181: Key pressed: e
 2025-07-07 11:17:54,277: Key released: 'e'
+2025-07-07 11:18:19,294: Key pressed: a
+2025-07-07 11:18:19,363: Key released: 'a'
+2025-07-07 11:18:19,542: Key pressed: d
+2025-07-07 11:18:19,617: Key released: 'd'
+2025-07-07 11:18:19,685: Key pressed: d
+2025-07-07 11:18:19,766: Key released: 'd'
+2025-07-07 11:18:19,862: Key pressed: e
+2025-07-07 11:18:19,942: Key released: 'e'
+2025-07-07 11:18:20,039: Key pressed: d
+2025-07-07 11:18:20,148: Key released: 'd'
+2025-07-07 11:18:20,321: Special key pressed: Key.space
+2025-07-07 11:18:20,441: Key released: Key.space
+2025-07-07 11:18:21,379: Key pressed: j
+2025-07-07 11:18:21,379: Key pressed: k
+2025-07-07 11:18:21,446: Key released: 'j'
+2025-07-07 11:18:21,450: Key released: 'k'
+2025-07-07 11:18:21,817: Key pressed: e
+2025-07-07 11:18:21,894: Key released: 'e'
+2025-07-07 11:18:22,516: Special key pressed: Key.backspace
+2025-07-07 11:18:22,589: Key released: Key.backspace
+2025-07-07 11:18:22,691: Special key pressed: Key.backspace
+2025-07-07 11:18:22,776: Key released: Key.backspace
+2025-07-07 11:18:22,861: Special key pressed: Key.backspace
+2025-07-07 11:18:22,918: Key released: Key.backspace
+2025-07-07 11:18:23,583: Key pressed: k
+2025-07-07 11:18:23,664: Key released: 'k'
+2025-07-07 11:18:23,901: Key pressed: e
+2025-07-07 11:18:23,954: Key released: 'e'
+2025-07-07 11:18:24,124: Key pressed: y
+2025-07-07 11:18:24,199: Key released: 'y'
+2025-07-07 11:18:24,379: Key pressed: s
+2025-07-07 11:18:24,450: Key released: 's'
+2025-07-07 11:18:24,605: Key pressed: t
+2025-07-07 11:18:24,692: Key released: 't'
+2025-07-07 11:18:24,795: Key pressed: r
+2025-07-07 11:18:24,883: Key released: 'r'
+2025-07-07 11:18:25,455: Key pressed: o
+2025-07-07 11:18:25,542: Key released: 'o'
+2025-07-07 11:18:25,654: Key pressed: k
+2025-07-07 11:18:25,742: Key released: 'k'
+2025-07-07 11:18:25,974: Key pressed: e
+2025-07-07 11:18:26,053: Key released: 'e'
+2025-07-07 11:18:26,212: Special key pressed: Key.space
+2025-07-07 11:18:26,315: Key released: Key.space
+2025-07-07 11:18:26,533: Key pressed: l
+2025-07-07 11:18:26,665: Key released: 'l'
+2025-07-07 11:18:26,777: Key pressed: o
+2025-07-07 11:18:26,864: Key released: 'o'
+2025-07-07 11:18:27,053: Key pressed: g
+2025-07-07 11:18:27,133: Key released: 'g'
