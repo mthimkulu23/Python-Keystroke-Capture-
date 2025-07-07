@@ -1,0 +1,22 @@
+# requirements.txt
+
+# This file lists the Python dependencies for the project.
+
+# Required library for keyboard monitoring
+# Updated pynput version to the highest available that is compatible with Python 3.13+ on macOS
+pynput==1.8.1
+
+# --- Additional common dependencies (examples) ---
+
+# For colored terminal output (useful for enhanced logging)
+colorama==0.4.6
+
+# For creating standalone executables from Python scripts
+# Updated pyinstaller version for compatibility with Python 3.13+
+pyinstaller==6.14.2
+
+# A popular library for making HTTP requests (general utility, not used in keylogger)
+requests==2.32.3
+
+# For working with dates and times (often useful in logging/data processing)
+python-dateutil==2.9.0.post0
